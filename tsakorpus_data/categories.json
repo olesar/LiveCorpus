@@ -27,7 +27,6 @@
     "distort": "anno",
     "anom": "anno",
     "norm": "anno",
-    "bastard": "anno",
     
     "famn": "nType",
     "persn": "nType",
@@ -38,6 +37,7 @@
     
     "abbr": "abbr",
     "0": "0",
+    "obsc": "genre",
 
     "loc": "case",
     "loc2": "case",
@@ -82,9 +82,10 @@
     "indic": "v_form",
     "imper": "v_form",
     "imper2": "v_form",
-    "act": "v_form",
-    "pass": "v_form",
-    "mid": "v_form",
+
+    "act": "voice",
+    "pass": "voice",
+    "mid": "voice",
   }
 }
 

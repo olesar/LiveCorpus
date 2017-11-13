@@ -76,7 +76,7 @@
         "pers": "(([123](sg|pl)|rel|rec|rfl)\\.(abs|erg|io))",
         "tense": "(praet|fut|praes)",
       },
-      "gr_fields_order": ["vType", "nType", "numType", "adjType", "proType", "stemType", "num_deriv", "v_form", "aspect", "tense", "person", "number", "case", "abbr", "0", "anno"]
+      "gr_fields_order": ["vType", "nType", "numType", "adjType", "proType", "stemType", "num_deriv", "v_form", "aspect", "voice", "tense", "person", "number", "case", "abbr", "0", "anno"]
       "gramm_selection": {
         "columns": [
           [
