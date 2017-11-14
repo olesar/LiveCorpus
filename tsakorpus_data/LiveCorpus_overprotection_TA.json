@@ -1,0 +1,1522 @@
+{
+ "meta": {
+  "filename": "LiveCorpus2014\\f2_zoyaevdaeva_overprotection.xhtml",
+  "title": "Гиперопека",
+  "speakers": "Оксана, Интервьюер",
+  "year1": "2014",
+  "year2": "2014",
+  "genre": "interview",
+  "place": "Москва",
+  "topic": "частная жизнь",
+  "subject": "Россия/Москва настоящее время",
+  "style": "нейтральный",
+  "length": "5:15",
+  "annotators": "Зоя Евдаева",
+  "language": "Russian",
+  "mediafile": "https://yadi.sk/d/mw9Gkne13MwCsZ/2014_Media/f2_zoyaevdaeva_giperopeka.mp4"
+ },
+ "sentences": [
+  {
+   "text": "Привет.",
+   "lang": 0,
+   "meta": {
+    "speaker": "Оксана",
+    "gender": "жен",
+    "year": "2014",
+    "birthyear": "1996",
+    "profession": "студент",
+    "birthplace": "Москва, Россия",
+    "liveplace": "Москва, Россия",
+    "education": ""
+   },
+   "src_alignment": [
+    {
+     "off_start_src": "0.000",
+     "off_end_src": "18.000",
+     "true_off_start_src": 0.0,
+     "off_start_sent": 0,
+     "off_end_sent": 8,
+     "mtype": "video",
+     "src_id": "1",
+     "src": "https://youtu.be/79zWMO3FvLM"
+    }
+   ],
+   "words": [
+    {
+     "off_start": 0,
+     "wf": "Привет",
+     "wtype": "word",
+     "off_end": 6,
+     "next_word": 1,
+     "sentence_index": 0,
+     "ana": [
+      {
+       "lex": "привет",
+       "gr.pos": "S",
+       "gr.number": "sg",
+       "gr.case": "nom",
+       "gr.animacy": "inan",
+       "gr.gender": "m"
+      }
+     ]
+    },
+    {
+     "off_start": 6,
+     "off_end": 7,
+     "wf": ".",
+     "wtype": "punct",
+     "next_word": 2
+    }
+   ]
+  },
+  {
+   "text": "Меня зовут Оксана Сикорская.",
+   "lang": 0,
+   "meta": {
+    "speaker": "Оксана",
+    "gender": "жен",
+    "year": "2014",
+    "birthyear": "1996",
+    "profession": "студент",
+    "birthplace": "Москва, Россия",
+    "liveplace": "Москва, Россия",
+    "education": ""
+   },
+   "src_alignment": [
+    {
+     "off_start_src": "0.000",
+     "off_end_src": "18.000",
+     "true_off_start_src": 0.0,
+     "off_start_sent": 0,
+     "off_end_sent": 8,
+     "mtype": "video",
+     "src_id": "1",
+     "src": "https://youtu.be/79zWMO3FvLM"
+    }
+   ],
+   "words": [
+    {
+     "off_start": 0,
+     "wf": "Меня",
+     "wtype": "word",
+     "off_end": 4,
+     "next_word": 1,
+     "sentence_index": 1,
+     "ana": [
+      {
+       "lex": "я",
+       "gr.pos": "SPRO",
+       "gr.all": "1p,sg",
+       "gr.case": "gen"
+      }
+     ]
+    },
+    {
+     "off_start": 5,
+     "wf": "зовут",
+     "wtype": "word",
+     "off_end": 10,
+     "next_word": 2,
+     "sentence_index": 1,
+     "ana": [
+      {
+       "lex": "звать",
+       "gr.pos": "V",
+       "gr.all": "ipf,tran,indic,act,praes,3p,pl"
+      }
+     ]
+    },
+    {
+     "off_start": 11,
+     "wf": "Оксана",
+     "wtype": "word",
+     "off_end": 17,
+     "next_word": 3,
+     "sentence_index": 1,
+     "ana": [
+      {
+       "lex": "Оксана",
+       "gr.pos": "S",
+       "gr.all": "persn,anim,f,sg",
+       "gr.case": "nom"
+      }
+     ]
+    },
+    {
+     "off_start": 18,
+     "wf": "Сикорская",
+     "wtype": "word",
+     "off_end": 27,
+     "next_word": 4,
+     "sentence_index": 1,
+     "ana": [
+      {
+       "lex": "Сикорская",
+       "gr.pos": "S",
+       "gr.all": "famn,anim,f,sg",
+       "gr.case": "nom"
+      }
+     ]
+    },
+    {
+     "off_start": 27,
+     "off_end": 28,
+     "wf": ".",
+     "wtype": "punct",
+     "next_word": 5
+    }
+   ]
+  },
+  {
+   "text": "Я начинающий писатель и учусь на в..",
+   "lang": 0,
+   "meta": {
+    "speaker": "Оксана",
+    "gender": "жен",
+    "year": "2014",
+    "birthyear": "1996",
+    "profession": "студент",
+    "birthplace": "Москва, Россия",
+    "liveplace": "Москва, Россия",
+    "education": ""
+   },
+   "src_alignment": [
+    {
+     "off_start_src": "0.000",
+     "off_end_src": "18.000",
+     "true_off_start_src": 0.0,
+     "off_start_sent": 0,
+     "off_end_sent": 8,
+     "mtype": "video",
+     "src_id": "1",
+     "src": "https://youtu.be/79zWMO3FvLM"
+    }
+   ],
+   "words": [
+    {
+     "off_start": 0,
+     "wf": "Я",
+     "wtype": "word",
+     "off_end": 1,
+     "next_word": 1,
+     "sentence_index": 2,
+     "ana": [
+      {
+       "lex": "я",
+       "gr.pos": "SPRO",
+       "gr.all": "1p,sg",
+       "gr.case": "nom"
+      }
+     ]
+    },
+    {
+     "off_start": 2,
+     "wf": "начинающий",
+     "wtype": "word",
+     "off_end": 12,
+     "next_word": 2,
+     "sentence_index": 2,
+     "ana": [
+      {
+       "lex": "начинающий",
+       "gr.pos": "A",
+       "gr.all": "m,sg,plen",
+       "gr.case": "nom"
+      }
+     ]
+    },
+    {
+     "off_start": 13,
+     "wf": "писатель",
+     "wtype": "word",
+     "off_end": 21,
+     "next_word": 3,
+     "sentence_index": 2,
+     "ana": [
+      {
+       "lex": "писатель",
+       "gr.pos": "S",
+       "gr.all": "anim,m,sg",
+       "gr.case": "nom"
+      }
+     ]
+    },
+    {
+     "off_start": 14,
+     "wf": "и",
+     "wtype": "word",
+     "off_end": 15,
+     "next_word": 4,
+     "sentence_index": 2,
+     "ana": [
+      {
+       "lex": "и",
+       "gr.pos": "CONJ"
+      }
+     ]
+    },
+    {
+     "off_start": 16,
+     "wf": "учусь",
+     "wtype": "word",
+     "off_end": 21,
+     "next_word": 5,
+     "sentence_index": 2,
+     "ana": [
+      {
+       "lex": "учиться",
+       "gr.pos": "V",
+       "gr.all": "ipf,intr,indic,act,praes,1p,sg"
+      }
+     ]
+    },
+    {
+     "off_start": 22,
+     "wf": "на",
+     "wtype": "word",
+     "off_end": 24,
+     "next_word": 6,
+     "sentence_index": 2,
+     "ana": [
+      {
+       "lex": "на",
+       "gr.pos": "PR"
+      }
+     ]
+    },
+    {
+     "off_start": 25,
+     "wf": "в",
+     "wtype": "word",
+     "off_end": 26,
+     "next_word": 7,
+     "sentence_index": 2,
+     "ana": [
+      {
+       "lex": "в",
+       "gr.pos": "PR",
+       "gr.all": "",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 26,
+     "off_end": 28,
+     "wf": "..",
+     "wtype": "punct",
+     "next_word": 8
+    }
+   ]
+  },
+  {
+   "text": "в техническом вузе.",
+   "lang": 0,
+   "meta": {
+    "speaker": "Оксана",
+    "gender": "жен",
+    "year": "2014",
+    "birthyear": "1996",
+    "profession": "студент",
+    "birthplace": "Москва, Россия",
+    "liveplace": "Москва, Россия",
+    "education": ""
+   },
+   "src_alignment": [
+    {
+     "off_start_src": "0.000",
+     "off_end_src": "18.000",
+     "true_off_start_src": 0.0,
+     "off_start_sent": 0,
+     "off_end_sent": 8,
+     "mtype": "video",
+     "src_id": "1",
+     "src": "https://youtu.be/79zWMO3FvLM"
+    }
+   ],
+   "words": [
+    {
+     "off_start": 0,
+     "wf": "в",
+     "wtype": "word",
+     "off_end": 1,
+     "next_word": 1,
+     "sentence_index": 3,
+     "ana": [
+      {
+       "lex": "в",
+       "gr.pos": "PR",
+       "gr.all": "",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 2,
+     "wf": "техническом",
+     "wtype": "word",
+     "off_end": 13,
+     "next_word": 2,
+     "sentence_index": 3,
+     "ana": [
+      {
+       "lex": "технический",
+       "gr.pos": "A",
+       "gr.all": "m,sg,loc,plen",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 14,
+     "wf": "вузе",
+     "wtype": "word",
+     "off_end": 18,
+     "next_word": 3,
+     "sentence_index": 3,
+     "ana": [
+      {
+       "lex": "вуз",
+       "gr.pos": "S",
+       "gr.all": "inan,m,sg",
+       "gr.case": "loc"
+      }
+     ]
+    },
+    {
+     "off_start": 18,
+     "off_end": 19,
+     "wf": ".",
+     "wtype": "punct",
+     "next_word": 0
+    }
+   ]
+  },
+  {
+   "text": "Но сегодня я хочу рассказать вам не об этом.",
+   "lang": 0,
+   "meta": {
+    "speaker": "Оксана",
+    "gender": "жен",
+    "year": "2014",
+    "birthyear": "1996",
+    "profession": "студент",
+    "birthplace": "Москва, Россия",
+    "liveplace": "Москва, Россия",
+    "education": ""
+   },
+   "src_alignment": [
+    {
+     "off_start_src": "0.000",
+     "off_end_src": "18.000",
+     "true_off_start_src": 0.0,
+     "off_start_sent": 0,
+     "off_end_sent": 8,
+     "mtype": "video",
+     "src_id": "1",
+     "src": "https://youtu.be/79zWMO3FvLM"
+    }
+   ],
+   "words": [
+    {
+     "off_start": 0,
+     "wf": "Но",
+     "wtype": "word",
+     "off_end": 2,
+     "next_word": 1,
+     "sentence_index": 5,
+     "ana": [
+      {
+       "lex": "но",
+       "gr.pos": "CONJ",
+       "gr.all": "",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 3,
+     "wf": "сегодня",
+     "wtype": "word",
+     "off_end": 10,
+     "next_word": 2,
+     "sentence_index": 5,
+     "ana": [
+      {
+       "lex": "сегодня",
+       "gr.pos": "ADV"
+      }
+     ]
+    },
+    {
+     "off_start": 11,
+     "wf": "я",
+     "wtype": "word",
+     "off_end": 12,
+     "next_word": 3,
+     "sentence_index": 5,
+     "ana": [
+      {
+       "lex": "я",
+       "gr.pos": "SPRO",
+       "gr.all": "1p,sg,nom",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 13,
+     "wf": "хочу",
+     "wtype": "word",
+     "off_end": 17,
+     "next_word": 4,
+     "sentence_index": 5,
+     "ana": [
+      {
+       "lex": "хотеть",
+       "gr.pos": "V",
+       "gr.all": "ipf,tran,indic,act,praes,1p,sg"
+      }
+     ]
+    },
+    {
+     "off_start": 18,
+     "wf": "рассказать",
+     "wtype": "word",
+     "off_end": 27,
+     "next_word": 5,
+     "sentence_index": 5,
+     "ana": [
+      {
+       "lex": "рассказать",
+       "gr.pos": "V",
+       "gr.all": "pf,inf,act"
+      }
+     ]
+    },
+    {
+     "off_start": 28,
+     "wf": "вам",
+     "wtype": "word",
+     "off_end": 31,
+     "next_word": 6,
+     "sentence_index": 5,
+     "ana": [
+      {
+       "lex": "вы",
+       "gr.pos": "SPRO",
+       "gr.all": "2p,pl",
+       "gr.case": "dat"
+      }
+     ]
+    },
+    {
+     "off_start": 32,
+     "wf": "не",
+     "wtype": "word",
+     "off_end": 34,
+     "next_word": 7,
+     "sentence_index": 5,
+     "ana": [
+      {
+       "lex": "не",
+       "gr.pos": "PART"
+      }
+     ]
+    },
+    {
+     "off_start": 35,
+     "wf": "об",
+     "wtype": "word",
+     "off_end": 37,
+     "next_word": 8,
+     "sentence_index": 5,
+     "ana": [
+      {
+       "lex": "об",
+       "gr.pos": "PR"
+      }
+     ]
+    },
+    {
+     "off_start": 38,
+     "wf": "этом",
+     "wtype": "word",
+     "off_end": 42,
+     "next_word": 9,
+     "sentence_index": 5,
+     "ana": [
+      {
+       "lex": "это",
+       "gr.pos": "SPRO",
+       "gr.all": "inan,n,sg,loc",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 42,
+     "off_end": 43,
+     "wf": ".",
+     "wtype": "punct",
+     "next_word": 0
+    }
+   ]
+  },
+  {
+   "text": "Я хочу вам рассказать о том,  к чему приводит гиперопека родителей.",
+   "lang": 0,
+   "meta": {
+    "speaker": "Оксана",
+    "gender": "жен",
+    "year": "2014",
+    "birthyear": "1996",
+    "profession": "студент",
+    "birthplace": "Москва, Россия",
+    "liveplace": "Москва, Россия",
+    "education": ""
+   },
+   "src_alignment": [
+    {
+     "off_start_src": "0.000",
+     "off_end_src": "18.000",
+     "true_off_start_src": 0.0,
+     "off_start_sent": 0,
+     "off_end_sent": 8,
+     "mtype": "video",
+     "src_id": "1",
+     "src": "https://youtu.be/79zWMO3FvLM"
+    }
+   ],
+   "words": [
+    {
+     "off_start": 0,
+     "wf": "Я",
+     "wtype": "word",
+     "off_end": 1,
+     "next_word": 1,
+     "sentence_index": 6,
+     "ana": [
+      {
+       "lex": "я",
+       "gr.pos": "SPRO",
+       "gr.all": "1p,sg,nom",
+       "gr.case": "nom"
+      }
+     ]
+    },
+    {
+     "off_start": 2,
+     "wf": "хочу",
+     "wtype": "word",
+     "off_end": 6,
+     "next_word": 2,
+     "sentence_index": 6,
+     "ana": [
+      {
+       "lex": "хотеть",
+       "gr.pos": "V",
+       "gr.all": "ipf,tran,indic,act,praes,1p,sg"
+      }
+     ]
+    },
+    {
+     "off_start": 7,
+     "wf": "вам",
+     "wtype": "word",
+     "off_end": 10,
+     "next_word": 3,
+     "sentence_index": 6,
+     "ana": [
+      {
+       "lex": "вы",
+       "gr.pos": "SPRO",
+       "gr.all": "2p,pl",
+       "gr.case": "dat"
+      }
+     ]
+    },
+    {
+     "off_start": 11,
+     "wf": "рассказать",
+     "wtype": "word",
+     "off_end": 21,
+     "next_word": 4,
+     "sentence_index": 6,
+     "ana": [
+      {
+       "lex": "рассказать",
+       "gr.pos": "V",
+       "gr.all": "pf,inf,act"
+      }
+     ]
+    },
+    {
+     "off_start": 22,
+     "wf": "о",
+     "wtype": "word",
+     "off_end": 23,
+     "next_word": 5,
+     "sentence_index": 6,
+     "ana": [
+      {
+       "lex": "о",
+       "gr.pos": "PR"
+      }
+     ]
+    },
+    {
+     "off_start": 24,
+     "wf": "том",
+     "wtype": "word",
+     "off_end": 27,
+     "next_word": 6,
+     "sentence_index": 6,
+     "ana": [
+      {
+       "lex": "то",
+       "gr.pos": "SPRO",
+       "gr.all": "inan,n,sg,loc",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 27,
+     "off_end": 28,
+     "wf": ",",
+     "wtype": "punct",
+     "next_word": 7
+    },
+    {
+     "off_start": 29,
+     "wf": "к",
+     "wtype": "word",
+     "off_end": 30,
+     "next_word": 8,
+     "sentence_index": 6,
+     "ana": [
+      {
+       "lex": "к",
+       "gr.pos": "PR",
+       "gr.all": "",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 31,
+     "wf": "чему",
+     "wtype": "word",
+     "off_end": 35,
+     "next_word": 9,
+     "sentence_index": 6,
+     "ana": [
+      {
+       "lex": "что",
+       "gr.pos": "SPRO",
+       "gr.all": "inan,n,sg",
+       "gr.case": "dat"
+      }
+     ]
+    },
+    {
+     "off_start": 36,
+     "wf": "приводит",
+     "wtype": "word",
+     "off_end": 44,
+     "next_word": 10,
+     "sentence_index": 6,
+     "ana": [
+      {
+       "lex": "приводить",
+       "gr.pos": "V",
+       "gr.all": "ipf,tran,indic,act,praes,3p,sg",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 45,
+     "wf": "гиперопека",
+     "wtype": "word",
+     "off_end": 55,
+     "next_word": 11,
+     "sentence_index": 6,
+     "ana": [
+      {
+       "lex": "гиперопека",
+       "gr.pos": "S",
+       "gr.all": "inan,f,sg",
+       "gr.case": "nom"
+      }
+     ]
+    },
+    {
+     "off_start": 56,
+     "wf": "родителей",
+     "wtype": "word",
+     "off_end": 65,
+     "next_word": 12,
+     "sentence_index": 6,
+     "ana": [
+      {
+       "lex": "родители",
+       "gr.pos": "S",
+       "gr.all": "anim,pl,gen",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 65,
+     "off_end": 66,
+     "wf": ".",
+     "wtype": "punct",
+     "next_word": 0
+    }
+   ]
+  },
+  {
+   "text": "Вот мне   лет, и вот за все эти годы...",
+   "lang": 0,
+   "meta": {
+    "speaker": "Оксана",
+    "gender": "жен",
+    "year": "2014",
+    "birthyear": "1996",
+    "profession": "студент",
+    "birthplace": "Москва, Россия",
+    "liveplace": "Москва, Россия",
+    "education": ""
+   },
+   "src_alignment": [
+    {
+     "off_start_src": "0.000",
+     "off_end_src": "18.000",
+     "true_off_start_src": 0.0,
+     "off_start_sent": 0,
+     "off_end_sent": 8,
+     "mtype": "video",
+     "src_id": "1",
+     "src": "https://youtu.be/79zWMO3FvLM"
+    }
+   ],
+   "words": [
+    {
+     "off_start": 0,
+     "wf": "Вот",
+     "wtype": "word",
+     "off_end": 3,
+     "next_word": 1,
+     "sentence_index": 7,
+     "ana": [
+      {
+       "lex": "вот",
+       "gr.pos": "ADVPRO",
+       "gr.all": "",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 4,
+     "wf": "мне",
+     "wtype": "word",
+     "off_end": 7,
+     "next_word": 2,
+     "sentence_index": 7,
+     "ana": [
+      {
+       "lex": "я",
+       "gr.pos": "SPRO",
+       "gr.all": "1p,sg,dat",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 8,
+     "wf": "18",
+     "wtype": "word",
+     "off_end": 10,
+     "next_word": 3,
+     "sentence_index": 7,
+     "ana": [
+      {
+       "lex": "18",
+       "gr.pos": "NUM",
+       "gr.all": "",
+       "gr.case": "nom"
+      }
+     ]
+    },
+    {
+     "off_start": 11,
+     "wf": "лет",
+     "wtype": "word",
+     "off_end": 14,
+     "next_word": 4,
+     "sentence_index": 7,
+     "ana": [
+      {
+       "lex": "год",
+       "gr.pos": "S",
+       "gr.all": "inan,m,pl,gen",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 14,
+     "off_end": 15,
+     "wf": ",",
+     "wtype": "punct",
+     "next_word": 7
+    },
+    {
+     "off_start": 16,
+     "wf": "и",
+     "wtype": "word",
+     "off_end": 17,
+     "next_word": 5,
+     "sentence_index": 7,
+     "ana": [
+      {
+       "lex": "и",
+       "gr.pos": "CONJ"
+      }
+     ]
+    },
+    {
+     "off_start": 18,
+     "wf": "вот",
+     "wtype": "word",
+     "off_end": 21,
+     "next_word": 6,
+     "sentence_index": 7,
+     "ana": [
+      {
+       "lex": "вот",
+       "gr.pos": "PART"
+      }
+     ]
+    },
+    {
+     "off_start": 22,
+     "wf": "за",
+     "wtype": "word",
+     "off_end": 24,
+     "next_word": 7,
+     "sentence_index": 7,
+     "ana": [
+      {
+       "lex": "за",
+       "gr.pos": "PR"
+      }
+     ]
+    },
+    {
+     "off_start": 25,
+     "wf": "все",
+     "wtype": "word",
+     "off_end": 28,
+     "next_word": 7,
+     "sentence_index": 7,
+     "ana": [
+      {
+       "lex": "весь",
+       "gr.pos": "APRO",
+       "gr.all": "pl",
+       "gr.case": "acc"
+      }
+     ]
+    },
+    {
+     "off_start": 29,
+     "wf": "эти",
+     "wtype": "word",
+     "off_end": 32,
+     "next_word": 8,
+     "sentence_index": 7,
+     "ana": [
+      {
+       "lex": "этот",
+       "gr.pos": "APRO",
+       "gr.all": "pl",
+       "gr.case": "acc"
+      }
+     ]
+    },
+    {
+     "off_start": 33,
+     "wf": "годы",
+     "wtype": "word",
+     "off_end": 37,
+     "next_word": 8,
+     "sentence_index": 7,
+     "ana": [
+      {
+       "lex": "год",
+       "gr.pos": "S",
+       "gr.all": "inan,m,pl",
+       "gr.case": "acc"
+      }
+     ]
+    },
+    {
+     "off_start": 37,
+     "off_end": 40,
+     "wf": "...",
+     "wtype": "punct",
+     "next_word": 5
+    }
+   ]
+  },
+  {
+   "text": "я постоянно находилась под контролем.",
+   "lang": 0,
+   "meta": {
+    "speaker": "Оксана",
+    "gender": "жен",
+    "year": "2014",
+    "birthyear": "1996",
+    "profession": "студент",
+    "birthplace": "Москва, Россия",
+    "liveplace": "Москва, Россия",
+    "education": ""
+   },
+   "src_alignment": [
+    {
+     "off_start_src": "0.000",
+     "off_end_src": "18.000",
+     "true_off_start_src": 0.0,
+     "off_start_sent": 0,
+     "off_end_sent": 8,
+     "mtype": "video",
+     "src_id": "1",
+     "src": "https://youtu.be/79zWMO3FvLM"
+    }
+   ],
+   "words": [
+    {
+     "off_start": 0,
+     "wf": "я",
+     "wtype": "word",
+     "off_end": 1,
+     "next_word": 1,
+     "sentence_index": 8,
+     "ana": [
+      {
+       "lex": "я",
+       "gr.pos": "SPRO",
+       "gr.all": "1p,sg",
+       "gr.case": "nom"
+      }
+     ]
+    },
+    {
+     "off_start": 2,
+     "wf": "постоянно",
+     "wtype": "word",
+     "off_end": 11,
+     "next_word": 2,
+     "sentence_index": 8,
+     "ana": [
+      {
+       "lex": "постоянно",
+       "gr.pos": "ADV",
+       "gr.all": "",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 12,
+     "wf": "находилась",
+     "wtype": "word",
+     "off_end": 22,
+     "next_word": 3,
+     "sentence_index": 8,
+     "ana": [
+      {
+       "lex": "находиться",
+       "gr.pos": "V",
+       "gr.all": "ipf,intr,indic,act,praet,f,sg"
+      }
+     ]
+    },
+    {
+     "off_start": 23,
+     "wf": "под",
+     "wtype": "word",
+     "off_end": 26,
+     "next_word": 4,
+     "sentence_index": 8,
+     "ana": [
+      {
+       "lex": "под",
+       "gr.pos": "PR",
+       "gr.all": "",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 27,
+     "wf": "контролем",
+     "wtype": "word",
+     "off_end": 36,
+     "next_word": 5,
+     "sentence_index": 8,
+     "ana": [
+      {
+       "lex": "контроль",
+       "gr.pos": "S",
+       "gr.all": "inan,m,sg",
+       "gr.case": "ins"
+      }
+     ]
+    },
+    {
+     "off_start": 36,
+     "off_end": 37,
+     "wf": ".",
+     "wtype": "punct",
+     "next_word": 0
+    }
+   ]
+  },
+  {
+   "text": "Приходишь домой - звонишь родителям.",
+   "lang": 0,
+   "meta": {
+    "speaker": "Оксана",
+    "gender": "жен",
+    "year": "2014",
+    "birthyear": "1996",
+    "profession": "студент",
+    "birthplace": "Москва, Россия",
+    "liveplace": "Москва, Россия",
+    "education": ""
+   },
+   "src_alignment": [
+    {
+     "off_start_src": "18.000",
+     "off_end_src": "40.000",
+     "true_off_start_src": 18.0,
+     "off_start_sent": 9,
+     "off_end_sent": 11,
+     "mtype": "video",
+     "src_id": "1",
+     "src": "https://youtu.be/79zWMO3FvLM"
+    }
+   ],
+   "words": [
+    {
+     "off_start": 0,
+     "wf": "Приходишь",
+     "wtype": "word",
+     "off_end": 9,
+     "next_word": 1,
+     "sentence_index": 9,
+     "ana": [
+      {
+       "lex": "приходить",
+       "gr.pos": "V",
+       "gr.all": "ipf,intr,indic,act,praes,2p,sg",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 10,
+     "wf": "домой",
+     "wtype": "word",
+     "off_end": 15,
+     "next_word": 2,
+     "sentence_index": 9,
+     "ana": [
+      {
+       "lex": "домой",
+       "gr.pos": "ADV"
+      }
+     ]
+    },
+    {
+     "off_start": 16,
+     "off_end": 17,
+     "wf": "-",
+     "wtype": "punct",
+     "next_word": 3
+    },
+    {
+     "off_start": 18,
+     "wf": "звонишь",
+     "wtype": "word",
+     "off_end": 25,
+     "next_word": 4,
+     "sentence_index": 9,
+     "ana": [
+      {
+       "lex": "звонить",
+       "gr.pos": "V",
+       "gr.all": "ipf,intr,indic,act,praes,2p,sg"
+      }
+     ]
+    },
+    {
+     "off_start": 26,
+     "wf": "родителям",
+     "wtype": "word",
+     "off_end": 35,
+     "next_word": 5,
+     "sentence_index": 9,
+     "ana": [
+      {
+       "lex": "родители",
+       "gr.pos": "S",
+       "gr.all": "anim,pl",
+       "gr.case": "dat"
+      }
+     ]
+    },
+    {
+     "off_start": 35,
+     "off_end": 36,
+     "wf": ".",
+     "wtype": "punct",
+     "next_word": 0
+    }
+   ]
+  },
+  {
+   "text": "Освобождаешься раньше - звонишь родителям!",
+   "lang": 0,
+   "meta": {
+    "speaker": "Оксана",
+    "gender": "жен",
+    "year": "2014",
+    "birthyear": "1996",
+    "profession": "студент",
+    "birthplace": "Москва, Россия",
+    "liveplace": "Москва, Россия",
+    "education": ""
+   },
+   "src_alignment": [
+    {
+     "off_start_src": "18.000",
+     "off_end_src": "40.000",
+     "true_off_start_src": 18.0,
+     "off_start_sent": 9,
+     "off_end_sent": 11,
+     "mtype": "video",
+     "src_id": "1",
+     "src": "https://youtu.be/79zWMO3FvLM"
+    }
+   ],
+   "words": [
+    {
+     "off_start": 0,
+     "wf": "Освобождаешься",
+     "wtype": "word",
+     "off_end": 13,
+     "next_word": 1,
+     "sentence_index": 10,
+     "ana": [
+      {
+       "lex": "освобождаться",
+       "gr.pos": "V",
+       "gr.all": "ipf,intr,indic,act,praes,2p,sg"
+      }
+     ]
+    },
+    {
+     "off_start": 14,
+     "wf": "раньше",
+     "wtype": "word",
+     "off_end": 20,
+     "next_word": 2,
+     "sentence_index": 10,
+     "ana": [
+      {
+       "lex": "рано",
+       "gr.pos": "ADV",
+       "gr.all": "comp"
+      }
+     ]
+    },
+    {
+     "off_start": 21,
+     "off_end": 22,
+     "wf": "-",
+     "wtype": "punct",
+     "next_word": 3
+    },
+    {
+     "off_start": 23,
+     "wf": "звонишь",
+     "wtype": "word",
+     "off_end": 30,
+     "next_word": 4,
+     "sentence_index": 10,
+     "ana": [
+      {
+       "lex": "звонить",
+       "gr.pos": "V",
+       "gr.all": "ipf,intr,indic,act,praes,2p,sg"
+      }
+     ]
+    },
+    {
+     "off_start": 31,
+     "wf": "родителям",
+     "wtype": "word",
+     "off_end": 40,
+     "next_word": 5,
+     "sentence_index": 10,
+     "ana": [
+      {
+       "lex": "родители",
+       "gr.pos": "S",
+       "gr.all": "anim,pl",
+       "gr.case": "dat"
+      }
+     ]
+    },
+    {
+     "off_start": 40,
+     "off_end": 41,
+     "wf": "!",
+     "wtype": "punct",
+     "next_word": 0
+    }
+   ]
+  },
+  {
+   "text": "Просто потому что они начинают беспокоиться, если тебя нет 10 минут дома.",
+   "lang": 0,
+   "meta": {
+    "speaker": "Оксана",
+    "gender": "жен",
+    "year": "2014",
+    "birthyear": "1996",
+    "profession": "студент",
+    "birthplace": "Москва, Россия",
+    "liveplace": "Москва, Россия",
+    "education": ""
+   },
+   "src_alignment": [
+    {
+     "off_start_src": "18.000",
+     "off_end_src": "40.000",
+     "true_off_start_src": 18.0,
+     "off_start_sent": 9,
+     "off_end_sent": 11,
+     "mtype": "video",
+     "src_id": "1",
+     "src": "https://youtu.be/79zWMO3FvLM"
+    }
+   ],
+   "words": [
+    {
+     "off_start": 0,
+     "wf": "Просто",
+     "wtype": "word",
+     "off_end": 6,
+     "next_word": 1,
+     "sentence_index": 11,
+     "ana": [
+      {
+       "lex": "просто",
+       "gr.pos": "PART",
+       "gr.all": "",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 7,
+     "wf": "потому",
+     "wtype": "word",
+     "off_end": 13,
+     "next_word": 2,
+     "sentence_index": 11,
+     "ana": [
+      {
+       "lex": "потому",
+       "gr.pos": "S-PRO",
+       "gr.all": "",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 14,
+     "wf": "что",
+     "wtype": "word",
+     "off_end": 17,
+     "next_word": 3,
+     "sentence_index": 11,
+     "ana": [
+      {
+       "lex": "что",
+       "gr.pos": "CONJ"
+      }
+     ]
+    },
+    {
+     "off_start": 18,
+     "wf": "они",
+     "wtype": "word",
+     "off_end": 21,
+     "next_word": 4,
+     "sentence_index": 11,
+     "ana": [
+      {
+       "lex": "они",
+       "gr.pos": "SPRO",
+       "gr.all": "3p,pl",
+       "gr.case": "nom"
+      }
+     ]
+    },
+    {
+     "off_start": 22,
+     "wf": "начинают",
+     "wtype": "word",
+     "off_end": 30,
+     "next_word": 5,
+     "sentence_index": 11,
+     "ana": [
+      {
+       "lex": "начинать",
+       "gr.pos": "V",
+       "gr.all": "ipf,tran,indic,act,praes,3p,pl"
+      }
+     ]
+    },
+    {
+     "off_start": 31,
+     "wf": "беспокоиться",
+     "wtype": "word",
+     "off_end": 42,
+     "next_word": 6,
+     "sentence_index": 11,
+     "ana": [
+      {
+       "lex": "беспокоиться",
+       "gr.pos": "V",
+       "gr.all": "ipf,intr,inf,act",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 42,
+     "off_end": 43,
+     "wf": ",",
+     "wtype": "punct",
+     "next_word": 7
+    },
+    {
+     "off_start": 44,
+     "wf": "если",
+     "wtype": "word",
+     "off_end": 48,
+     "next_word": 8,
+     "sentence_index": 11,
+     "ana": [
+      {
+       "lex": "если",
+       "gr.pos": "CONJ"
+      }
+     ]
+    },
+    {
+     "off_start": 49,
+     "wf": "тебя",
+     "wtype": "word",
+     "off_end": 53,
+     "next_word": 9,
+     "sentence_index": 11,
+     "ana": [
+      {
+       "lex": "ты",
+       "gr.pos": "SPRO",
+       "gr.all": "2p,sg",
+       "gr.case": "gen"
+      }
+     ]
+    },
+    {
+     "off_start": 54,
+     "wf": "нет",
+     "wtype": "word",
+     "off_end": 57,
+     "next_word": 10,
+     "sentence_index": 11,
+     "ana": [
+      {
+       "lex": "нет",
+       "gr.pos": "PRAEDIC"
+      }
+     ]
+    },
+    {
+     "off_start": 58,
+     "wf": "10",
+     "wtype": "word",
+     "off_end": 60,
+     "next_word": 11,
+     "sentence_index": 11,
+     "ana": [
+      {
+       "lex": "10",
+       "gr.pos": "NUM",
+       "gr.all": "",
+       "gr.case": "acc"
+      }
+     ]
+    },
+    {
+     "off_start": 61,
+     "wf": "минут",
+     "wtype": "word",
+     "off_end": 66,
+     "next_word": 12,
+     "sentence_index": 11,
+     "ana": [
+      {
+       "lex": "минута",
+       "gr.pos": "S",
+       "gr.all": "inan,f,pl,gen",
+       "gr.case": ""
+      }
+     ]
+    },
+    {
+     "off_start": 67,
+     "wf": "дома",
+     "wtype": "word",
+     "off_end": 71,
+     "next_word": 13,
+     "sentence_index": 11,
+     "ana": [
+      {
+       "lex": "дома",
+       "gr.pos": "ADV"
+      }
+     ]
+    },
+    {
+     "off_start": 71,
+     "off_end": 72,
+     "wf": ".",
+     "wtype": "punct",
+     "next_word": 5
+    }
+   ]
+  }
+ ]
+}
